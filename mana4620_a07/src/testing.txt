@@ -1,0 +1,127 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  ADDIN MANASIYA
+ID:      169044620
+Email:   mana4620@mylaurier.ca
+Version: 2023-07-06
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+
+Printing the first item: 
+Name:       Lasagna
+Origin:     Italian
+Vegetarian: False
+Calories:   135
+
+Printing first item: 
+Name:       Natto
+Origin:     Japanese
+Vegetarian: True
+Calories:   212
+
+Printing count of each item: 
+Name                                Count
+---------------------------------   -----
+Natto                                  24
+Lasagna                                21
+Butter Chicken                          2
+Moo Goo Guy Pan                        23
+Vegetable Alicha                       42
+Spanakopita                            34
+Chirashi Don                           10
+Canuck Burger                           4
+Turducken                              41
+Shark Fin Soup                         32
+Chamuco                                 5
+Natto                                  24
+Canada Goose Chili                      3
+Diet Free-Range Gluten-free Water      12
+Kung Pao Chicken                       20
+General Tao Chicken                    16
+Spicy Vegetable Moo Shu                35
+BBQ Pork                                0
+Orange Chicken                         26
+Vegetables with Cashew Nuts            43
+Lemon Chicken                          22
+Beef with Green Pepper                  1
+Sweet and Sour Pork                    37
+Szechuan Shrimp                        38
+Poutine                                30
+Teppanyaki                             39
+Greek Salad                            17
+Fettuccine                             13
+Teriyaki                               40
+Shortbread                             33
+Pavlova                                28
+Hokey Pokey Ice Cream                  19
+Fricot                                 14
+Chip Butty                              9
+Grilled Salmon                         18
+Ravioli                                31
+Crepe                                  11
+Fried Rice                             15
+Pepperoni Pizza                        29
+Chicken Kabob                           7
+Panzerotti                             27
+Spring Rolls                           36
+Chicken Chow Mein                       6
+Chicken Wings                           8
+-------------------------------------------------------
+
+-------------------------------------------------------
+t02
+
+Printing count of each item: 
+Name                                Count
+---------------------------------   -----
+BBQ Pork                                0
+Beef with Green Pepper                  1
+Butter Chicken                          2
+Canada Goose Chili                      3
+Canuck Burger                           4
+Chamuco                                 5
+Chicken Chow Mein                       6
+Chicken Kabob                           7
+Chicken Wings                           8
+Chip Butty                              9
+Chirashi Don                           10
+Crepe                                  11
+Diet Free-Range Gluten-free Water      12
+Fettuccine                             13
+Fricot                                 14
+Fried Rice                             15
+General Tao Chicken                    16
+Greek Salad                            17
+Grilled Salmon                         18
+Hokey Pokey Ice Cream                  19
+Kung Pao Chicken                       20
+Lasagna                                21
+Lemon Chicken                          22
+Moo Goo Guy Pan                        23
+Natto                                  24
+Natto                                  24
+Orange Chicken                         26
+Panzerotti                             27
+Pavlova                                28
+Pepperoni Pizza                        29
+Poutine                                30
+Ravioli                                31
+Shark Fin Soup                         32
+Shortbread                             33
+Spanakopita                            34
+Spicy Vegetable Moo Shu                35
+Spring Rolls                           36
+Sweet and Sour Pork                    37
+Szechuan Shrimp                        38
+Teppanyaki                             39
+Teriyaki                               40
+Turducken                              41
+Vegetable Alicha                       42
+Vegetables with Cashew Nuts            43
+-------------------------------------------------------
+
+-------------------------------------------------------

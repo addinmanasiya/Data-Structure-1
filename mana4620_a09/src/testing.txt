@@ -1,0 +1,60 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  ADDIN MANASIYA
+ID:      169044620
+Email:   mana4620@mylaurier.ca
+Version: 2023-07-20
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+Using array-based list Hash_Set
+
+Total Comparisons: 994,566
+Word with maximum comparisons 'the': 15,049
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t02
+Using array-based Sorted List Hash_Set
+
+Total Comparisons: 1,131,593
+Word with maximum comparisons 'the': 25,083
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t03
+Using linked BST Hash_Set
+
+Total Comparisons: 1,353,081
+Word with maximum comparisons 'the': 44,057
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t04
+Number of nodes with no children: 
+4
+
+Number of nodes with one child: 
+1
+
+Number of nodes with two children: 
+3
+
+BST contains 15?: 
+True
+
+Parent Node for 15: 
+11
+
+Parent Node for 8 (found recursively): 
+9
+
+-------------------------------------------------------
+
+-------------------------------------------------------
