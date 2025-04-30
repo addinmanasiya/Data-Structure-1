@@ -1,0 +1,200 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  ADDIN MANASIYA
+ID:      169044620
+Email:   mana4620@mylaurier.ca
+Version: 2023-06-15
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+
+Printing...
+Lasagna = 21
+Butter Chicken = 2
+Moo Goo Guy Pan = 24
+Vegetable Alicha = 42
+Spanakopita = 34
+Chirashi Don = 10
+Canuck Burger = 4
+Turducken = 41
+Shark Fin Soup = 32
+Chamuco = 5
+Natto = 25
+Canada Goose Chili = 3
+Diet Free-Range Gluten-free Water = 12
+Kung Pao Chicken = 20
+General Tao Chicken = 16
+Spicy Vegetable Moo Shu = 35
+BBQ Pork = 0
+Orange Chicken = 26
+Vegetables with Cashew Nuts = 43
+Lemon Chicken = 23
+Beef with Green Pepper = 1
+Sweet and Sour Pork = 37
+Szechuan Shrimp = 38
+Poutine = 30
+Teppanyaki = 39
+Greek Salad = 17
+Fettuccine = 13
+Teriyaki = 40
+Shortbread  = 33
+Pavlova = 28
+Hokey Pokey Ice Cream = 19
+Fricot = 14
+Chip Butty = 9
+Grilled Salmon = 18
+Ravioli = 31
+Crepe = 11
+Fried Rice = 15
+Pepperoni Pizza = 29
+Chicken Kabob = 7
+Panzerotti = 27
+Spring Rolls = 36
+Chicken Chow Mein = 6
+Chicken Wings = 8
+Lasagna = 21
+
+Printing...
+Lasagna = 2
+Butter Chicken = 1
+BBQ Pork = 0
+
+Printing...
+Lasagna
+Gulab Jamun
+Butter Chicken
+Burrito
+BBQ Pork
+
+Printing...
+Name:       Butter Chicken
+Origin:     Indian
+Vegetarian: False
+Calories:   490
+
+Printing...
+Gulab Jamun
+Burrito
+
+Printing...
+True
+
+Printing...
+Gulab Jamun
+Gulab Jamun
+Burrito
+
+Printing...
+Gulab Jamun
+Burrito
+
+Printing...
+Gulab Jamun
+Gulab Jamun
+
+Printing...
+Lasagna
+Gulab Jamun
+Butter Chicken
+
+Printing...
+Burrito
+BBQ Pork
+
+Printing...
+Lasagna
+Butter Chicken
+
+Printing...
+Gulab Jamun
+
+Printing...
+Lasagna
+Butter Chicken
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t02
+
+
+
+Printing
+100
+200
+
+Printing
+True
+
+Printing
+2
+
+Printing
+100
+
+Printing
+200
+
+Printing
+0
+
+Printing
+100
+
+Printing
+False
+
+Printing
+1000
+
+Printing
+100
+
+Printing
+100
+
+Printing
+1000
+
+Printing
+100
+200
+
+Printing
+11
+
+Printing
+11
+100
+
+Printing
+1000
+
+Printing
+11
+1000
+
+Printing
+100
+100000
+
+Printing
+11
+100
+1000
+
+Printing
+100000
+
+Printing
+11
+100
+1000
+100000
+
+-------------------------------------------------------
+
+-------------------------------------------------------
