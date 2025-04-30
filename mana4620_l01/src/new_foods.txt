@@ -1,0 +1,2 @@
+Chicken Wings|2|False|130
+Crotons Salad|0|True|500

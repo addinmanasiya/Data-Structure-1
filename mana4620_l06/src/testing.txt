@@ -1,0 +1,92 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  ADDIN MANASIYA
+ID:      169044620
+Email:   mana4620@mylaurier.ca
+Version: 2023-06-21
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+Name:       Lasagna
+Origin:     Italian
+Vegetarian: False
+Calories:   135
+
+Name:       Butter Chicken
+Origin:     Indian
+Vegetarian: False
+Calories:   490
+
+Name:       Moo Goo Guy Pan
+Origin:     Chinese
+Vegetarian: False
+Calories:   272
+
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t02
+16
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t03
+10
+
+Name:       Vegetables with Cashew Nuts
+Origin:     Chinese
+Vegetarian: True
+Calories:   143
+
+Name:       BBQ Pork
+Origin:     Chinese
+Vegetarian: False
+Calories:   920
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t04
+Name:       BBQ Pork
+Origin:     Chinese
+Vegetarian: False
+Calories:   920
+16
+True
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t05
+Name:       Lasagna
+Origin:     Italian
+Vegetarian: False
+Calories:   135
+
+Name:       Butter Chicken
+Origin:     Indian
+Vegetarian: False
+Calories:   490
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t06
+Name:       Chirashi Don
+Origin:     Japanese
+Vegetarian: False
+Calories:   600
+
+Name:       Natto
+Origin:     Japanese
+Vegetarian: True
+Calories:   212
+
+-------------------------------------------------------
+
+-------------------------------------------------------
