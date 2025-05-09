@@ -3,8 +3,8 @@
 [program description]
 -------------------------------------------------------
 Author:  ADDIN MANASIYA
-ID:      169044620
-Email:   mana4620@mylaurier.ca
+ID:      
+Email:   
 __updated__ = "2023-07-05" 
 -------------------------------------------------------
 """
